@@ -1,0 +1,109 @@
+Famicon Wars 
+
+https://www.romhacking.net/translations/6101/
+Muda a tela de título : Famicom Wars > NES Wars
+https://www.romhacking.net/translations/4573/
+Eu acho que é uma 2° tradução
+https://www.romhacking.net/translations/2730/
+Pra quem quer jogar em Francês, baseado na traduçao Inglês do jogo
+https://www.romhacking.net/translations/2590/ = to usando essa !!!
+Tradução pro Inglês
+https://www.romhacking.net/translations/2521/
+Outra trução pro Inglês
+https://www.romhacking.net/translations/911/
+Modificou alguns ícones e traduziu pro Inglês
+https://www.romhacking.net/translations/137/
+Tradução incompleta
+
+Mapas : 15
+1- Bean = OK ソラマメジマのマップ
+2- Crater = OK ドーナツジマのマップ
+3- Triangle = OK オニギリジマのマップ
+4- Ball = OK タマタマジマのマップ
+5- Coral = OK マガタマジマのマップ
+6- Puzzle = OK ハゴロモジマのマップ
+7- Mist = OK キメンハントウの指揮官
+8- Deer = OK ペケジマのマップ
+9- Alara = OK アララサンミャクのマップ
+10- Lost = OK チリヂリガワのマップ
+11- Volcano = OK ノアカザントウのマップ
+12- Turtle = OK ツキノワジマのマップ
+13- Squash = OK ハマキジマのマップ
+14- Cube = OK サイコロジマのマップ
+15- Mirror = OK フタゴジマのマップ
+16- Devilato = OK デビラートウのマップ
+17- Último Sonho = OK ラストドリームのマップ
+
+
+Build = Onde você vai criar as unidades ( temos 10 ), são elas :
+Tipo = Vida, Movimento, Combustível, Munição e Alcance
+
+Infantry = 10/3/96/9/1
+Mech     = 10/2/70/3/1
+Med Tank = 10/6/70/6/1
+-Tank     = 10/5/50/4/1
+Não atravessa montanha
+-APC      = 10/6/70/4/1 Carregar Infantaria
+Howitzer = 10/4/50/5/5 Ataque a distância
+Artillery= 10/5/30/3/3
+AA Missle= 10/4/40/2/5
+AA Tank  = 10/5/50/4/1
+Supply   = 10/5/60/0/1
+
+Copter = 10/6/60/4/1
+Scout =  10/10/99/4/1
+
+vs AA Missile 
+Bomber = -5 AA Missile
+Fighter = não usar
+
+vs AA Tank
+Fighter = Não usar
+
+vs Copter
+Scout 9 vs Copter 6 = -6 Copter eliminado
+
+vs Howitzer
+Bomber = Tira 6
+Fighter = Tira 2
+Copter = tira nada
+Scout = tira nada
+
+vs Infantaria
+Copter 9 vs Infantari 5 = Infantaria Eliminada
+Fighter 10 vs Infantari 8 = Infantari 4
+Bomber 10 vs Infantari 10 = Infantaria 7
+Scout 8 vs Infantaria 10 = Infantaria 8
+
+vs Mech
+Bomber vs Mech = Mech 6
+Fighter vs Mech = Mech 7
+Scout = não usar !!!
+
+vs Med Tank
+Bomber = tira 5 e perde 2
+Fighter = tira 1
+Scout = perde 1
+Copter perde 2 
+
+Income 
+
+11.000 = 7 Prédios
+12.000 = 8 
+13.000 = 9 
+14.000 = 10
+15.000 = 11
+16.000 = 12
+17.000 = 13
+18.000 = 14 ( + 2 )
+19.000 = 15
+20.000 = 16
+21
+22
+23.000 = 19
+24.000 = 20
+
+Batalhas :
+
+Terra - Tank vs Tank = Igual
+Terra - Tank vs Mech = Igual
